@@ -1,2 +1,3 @@
-# Sal-o-na-m-o
-Sistema web e mobile para agendamento 
+# Salão na mão
+
+Sistema web e mobile para agendamento de serviços

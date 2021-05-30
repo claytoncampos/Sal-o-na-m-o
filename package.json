@@ -1,0 +1,31 @@
+{
+  "name": "hexdriver",
+  "version": "1.0.0",
+  "description": "Aplicativo mobile para Transporte de Passagerios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytoncampos/HexDriver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytoncampos/HexDriver/issues"
+  },
+  "homepage": "https://github.com/claytoncampos/HexDriver#readme",
+  "dependencies": {
+    "aws-sdk": "^2.918.0",
+    "busboy-body-parser": "^0.3.2",
+    "connect-busboy": "^0.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
